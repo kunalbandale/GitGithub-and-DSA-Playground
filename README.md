@@ -1,3 +1,12 @@
+
+<div align="center">
+
+# Hello Developers! 
+
+![Moving Animation](hello.gif)
+
+</div>
+
 # Welcome to the  Practice Repository! 🚀
 
 Hey there! 👋 Welcome to the Practice Repository, a place where both Git/GitHub beginners and DSA enthusiasts can come together to learn and contribute. Whether you're just starting with Git or sharpening your Data Structures and Algorithms skills, this repository is for you!
@@ -13,7 +22,7 @@ If you're new to Git and GitHub, here's a quick guide to get you started:
 2. **Clone your fork:** Open your terminal and run the following command, replacing `<your-username>` with your GitHub username.
 
    ```bash
-   git clone https://github.com/<your-username>/dsa-practice.git
+   git clone https://github.com/<your-username>/GitGithub-and-DSA-Playground
    ```
 
 3. **Create a new branch:** Move into the repository directory and create a new branch for your changes.
@@ -39,14 +48,7 @@ If you're new to Git and GitHub, here's a quick guide to get you started:
    ```
 
 7. **Create a pull request:** Go to the original repository on GitHub and create a pull request from your branch.
-8. 
-<div align="center">
 
-# Hello Developers! 🚀
-
-![Moving Animation](hello.gif)
-
-</div>
 
 ### DSA Enthusiasts
 
