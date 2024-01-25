@@ -60,7 +60,7 @@ Here's a table to keep track of different DSA topics and their corresponding cod
 
 | Code Topic / Problem Statement  | Code Link                                  |Code Contributor Name|
 |-------------|--------------------------------------------|---------------------|
-| code topic          | add code line                              |Your name   |     
+| code topic          | add code link                             |Your name   |     
 |(sample) Linked List | [LinkedList.cpp](https://github.com/kunalbandale/GitGithub-and-DSA-Playground/blob/main/Linked_List.cpp)     | name    |
 |      |                                         |             |
 |      |                                         |             |
