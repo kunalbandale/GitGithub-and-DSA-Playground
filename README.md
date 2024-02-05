@@ -62,17 +62,7 @@ Here's a table to keep track of different DSA topics and their corresponding cod
 |-------------|--------------------------------------------|---------------------|
 | code topic          | add code link                             |Your name   |     
 |(sample) Linked List | [LinkedList.cpp](https://github.com/kunalbandale/GitGithub-and-DSA-Playground/blob/main/Linked_List.cpp)     | name    |
-
-|C++ STL Stack      |                       |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
-|      |                                         |             |
+|C++ STL Stack |
 
 
 Feel free to add your code snippets to this table as you contribute!
